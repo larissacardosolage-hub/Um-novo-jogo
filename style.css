@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(202, 93, 21);
+    color: white;
+    font-family: "Lato", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button{
+   background-color: rgb(241, 150, 31);
+   color:white;
+   font-family: "Lato", sans-serif;
+}
